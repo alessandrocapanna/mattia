@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/mattia/static/css/main.db59d339.chunk.css",
-    "main.js": "/mattia/static/js/main.95bc3813.chunk.js",
-    "main.js.map": "/mattia/static/js/main.95bc3813.chunk.js.map",
-    "runtime-main.js": "/mattia/static/js/runtime-main.8477b8e0.js",
-    "runtime-main.js.map": "/mattia/static/js/runtime-main.8477b8e0.js.map",
-    "static/js/2.dc72e26f.chunk.js": "/mattia/static/js/2.dc72e26f.chunk.js",
-    "static/js/2.dc72e26f.chunk.js.map": "/mattia/static/js/2.dc72e26f.chunk.js.map",
-    "index.html": "/mattia/index.html",
-    "precache-manifest.dc41389ac24d7d0fd837cb9a9d5149f4.js": "/mattia/precache-manifest.dc41389ac24d7d0fd837cb9a9d5149f4.js",
-    "service-worker.js": "/mattia/service-worker.js",
-    "static/css/main.db59d339.chunk.css.map": "/mattia/static/css/main.db59d339.chunk.css.map",
-    "static/js/2.dc72e26f.chunk.js.LICENSE.txt": "/mattia/static/js/2.dc72e26f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/mattia/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/mattia/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/mattia/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/mattia/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/mattia/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/features-split-image-01.png": "/mattia/static/media/features-split-image-01.d9cb99ce.png"
+    "main.css": "/static/css/main.80e776f8.chunk.css",
+    "main.js": "/static/js/main.46c27f8e.chunk.js",
+    "main.js.map": "/static/js/main.46c27f8e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4b25605.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4b25605.js.map",
+    "static/js/2.dc72e26f.chunk.js": "/static/js/2.dc72e26f.chunk.js",
+    "static/js/2.dc72e26f.chunk.js.map": "/static/js/2.dc72e26f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.654c327799e14dbee6853501bbfe0390.js": "/precache-manifest.654c327799e14dbee6853501bbfe0390.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.80e776f8.chunk.css.map": "/static/css/main.80e776f8.chunk.css.map",
+    "static/js/2.dc72e26f.chunk.js.LICENSE.txt": "/static/js/2.dc72e26f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.d9cb99ce.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8477b8e0.js",
+    "static/js/runtime-main.f4b25605.js",
     "static/js/2.dc72e26f.chunk.js",
-    "static/css/main.db59d339.chunk.css",
-    "static/js/main.95bc3813.chunk.js"
+    "static/css/main.80e776f8.chunk.css",
+    "static/js/main.46c27f8e.chunk.js"
   ]
 }
