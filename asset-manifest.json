@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/alessandrocapanna/mattia/static/css/main.ea9507ce.chunk.css",
-    "main.js": "/alessandrocapanna/mattia/static/js/main.f6981aaa.chunk.js",
-    "main.js.map": "/alessandrocapanna/mattia/static/js/main.f6981aaa.chunk.js.map",
-    "runtime-main.js": "/alessandrocapanna/mattia/static/js/runtime-main.df6a6373.js",
-    "runtime-main.js.map": "/alessandrocapanna/mattia/static/js/runtime-main.df6a6373.js.map",
-    "static/js/2.769e1417.chunk.js": "/alessandrocapanna/mattia/static/js/2.769e1417.chunk.js",
-    "static/js/2.769e1417.chunk.js.map": "/alessandrocapanna/mattia/static/js/2.769e1417.chunk.js.map",
-    "index.html": "/alessandrocapanna/mattia/index.html",
-    "precache-manifest.c30e932921290a9b87cd1dc143867dde.js": "/alessandrocapanna/mattia/precache-manifest.c30e932921290a9b87cd1dc143867dde.js",
-    "service-worker.js": "/alessandrocapanna/mattia/service-worker.js",
-    "static/css/main.ea9507ce.chunk.css.map": "/alessandrocapanna/mattia/static/css/main.ea9507ce.chunk.css.map",
-    "static/js/2.769e1417.chunk.js.LICENSE.txt": "/alessandrocapanna/mattia/static/js/2.769e1417.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/alessandrocapanna/mattia/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/alessandrocapanna/mattia/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/alessandrocapanna/mattia/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/alessandrocapanna/mattia/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/alessandrocapanna/mattia/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/features-split-image-01.png": "/alessandrocapanna/mattia/static/media/features-split-image-01.d9cb99ce.png"
+    "main.css": "/mattia/static/css/main.db59d339.chunk.css",
+    "main.js": "/mattia/static/js/main.d77766b5.chunk.js",
+    "main.js.map": "/mattia/static/js/main.d77766b5.chunk.js.map",
+    "runtime-main.js": "/mattia/static/js/runtime-main.5419d042.js",
+    "runtime-main.js.map": "/mattia/static/js/runtime-main.5419d042.js.map",
+    "static/js/2.769e1417.chunk.js": "/mattia/static/js/2.769e1417.chunk.js",
+    "static/js/2.769e1417.chunk.js.map": "/mattia/static/js/2.769e1417.chunk.js.map",
+    "index.html": "/mattia/index.html",
+    "precache-manifest.031ba5dd8d198affdfc940f793a83f48.js": "/mattia/precache-manifest.031ba5dd8d198affdfc940f793a83f48.js",
+    "service-worker.js": "/mattia/service-worker.js",
+    "static/css/main.db59d339.chunk.css.map": "/mattia/static/css/main.db59d339.chunk.css.map",
+    "static/js/2.769e1417.chunk.js.LICENSE.txt": "/mattia/static/js/2.769e1417.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/mattia/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/mattia/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/mattia/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/mattia/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/mattia/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/features-split-image-01.png": "/mattia/static/media/features-split-image-01.d9cb99ce.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.df6a6373.js",
+    "static/js/runtime-main.5419d042.js",
     "static/js/2.769e1417.chunk.js",
-    "static/css/main.ea9507ce.chunk.css",
-    "static/js/main.f6981aaa.chunk.js"
+    "static/css/main.db59d339.chunk.css",
+    "static/js/main.d77766b5.chunk.js"
   ]
 }
