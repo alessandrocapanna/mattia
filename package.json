@@ -2,7 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://alessandrocapanna.github.io/mattia/",
+  "homepage": "https://github.com/alessandrocapanna/mattia",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
